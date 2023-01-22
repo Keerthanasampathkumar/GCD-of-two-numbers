@@ -31,9 +31,11 @@ def gcd():
     print("GCD of two numbers is:",hcf)
 */
 ```
+## Sample Input:
+![Screenshot 2023-01-22 174759](https://user-images.githubusercontent.com/119477890/213915472-9264c851-7536-4cdf-89b6-11b20872c621.png)
+
 
 ## Output:
-![gcd of two number](gcd.png)
 ![Ex 2a](https://user-images.githubusercontent.com/119477890/212476288-2d8c7d29-0b4d-4414-bcc4-120c93fa1609.png)
 
 
